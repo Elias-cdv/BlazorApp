@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\OneDrive\\Escritorio\\BlazorApp\\BlazorApp\\BlazorApp.csproj": {}
+    "c:\\Users\\Hp\\OneDrive\\Escritorio\\BlazorApp\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\OneDrive\\Escritorio\\BlazorApp\\BlazorApp\\BlazorApp.csproj": {
+    "c:\\Users\\Hp\\OneDrive\\Escritorio\\BlazorApp\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Escritorio\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "c:\\Users\\Hp\\OneDrive\\Escritorio\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "C:\\Users\\Hp\\OneDrive\\Escritorio\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "c:\\Users\\Hp\\OneDrive\\Escritorio\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\OneDrive\\Escritorio\\BlazorApp\\BlazorApp\\obj\\",
+        "outputPath": "c:\\Users\\Hp\\OneDrive\\Escritorio\\BlazorApp\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
